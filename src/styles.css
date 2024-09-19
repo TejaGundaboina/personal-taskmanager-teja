@@ -1,0 +1,84 @@
+.App {
+  font-family: sans-serif;
+}
+.heading {
+  color: rgb(165, 42, 42);
+  font-family: "roboto";
+  background-color: aquamarine;
+  text-align: center;
+}
+.formm {
+  border: solid 3px;
+  margin: 3px;
+  border-color: rgb(19, 230, 184);
+  border-radius: 10px;
+  height: 98vh;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(46, 211, 156),
+    lightblue,
+    darkblue
+  );
+}
+.form {
+  margin: 80px;
+  font-family: "roboto";
+  font-size: 25px;
+  color: black;
+}
+.inp {
+  height: 20px;
+  width: 80px;
+  margin: 5px;
+  width: 300px;
+}
+.box {
+  margin-bottom: 10px;
+}
+.button {
+  text-align: center;
+}
+.btn {
+  background-color: aquamarine;
+  height: 40px;
+  width: 130px;
+  margin: 5px;
+  color: rgb(235, 119, 12);
+  border-radius: 10px;
+  border-width: 0px;
+  font-size: 20px;
+}
+.boxx {
+  border: solid 3px;
+  margin: 80px;
+  background-color: aqua;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.head2 {
+  color: brown;
+  text-align: center;
+}
+.del {
+  height: 30px;
+  width: 90px;
+  background-color: red;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
+li {
+  margin: 30px;
+  color: black;
+  font-family: "roboto";
+  font-size: 20px;
+}
+.ed {
+  height: 30px;
+  width: 90px;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  margin-right: 10px;
+}
